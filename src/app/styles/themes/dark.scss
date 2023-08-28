@@ -1,4 +1,7 @@
 body[data-theme='dark'] {
+  // background
+  --main-bg-color: #000;
+
   // primary
   --primary-100-color: #fff;
   --primary-300-color: #f9f7ff;
@@ -20,6 +23,31 @@ body[data-theme='dark'] {
   --info-700-color: #2f68cc;
   --info-900-color: #234e99;
 
-  // background
-  --main-bg-color: #000;
+  // warning
+  --warning-100-color: #ffd073;
+  --warning-300-color: #e5ac39;
+  --warning-500-color: #d99000;
+  --warning-700-color: #960;
+  --warning-900-color: #640;
+
+  // danger
+  --danger-100-color: #ff8099;
+  --danger-300-color: #f23d61;
+  --danger-500-color: #cc1439;
+  --danger-700-color: #990f2b;
+  --danger-900-color: #660a1d;
+
+  // success
+  --success-100-color: #80ffbf;
+  --success-300-color: #22e584;
+  --success-500-color: #14cc70;
+  --success-700-color: #0f9954;
+  --success-900-color: #0a6638;
+
+  // accent
+  --accent-100-color: #bea6ff;
+  --accent-300-color: #a280ff;
+  --accent-500-color: #8c61ff;
+  --accent-700-color: #704ecc;
+  --accent-900-color: #382766;
 }
