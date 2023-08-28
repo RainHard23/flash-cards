@@ -7,6 +7,7 @@
 - [x] EsLint
 - [x] Prettier
 - [x] StyleLint
+- [x] Storybook
 - [x] SASS (scss syntax)
 - [x] clsx
 - [x] @radix-ui/react-checkbox
