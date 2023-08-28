@@ -6,4 +6,5 @@
 - [x] TypeScript
 - [x] EsLint
 - [x] Prettier
+- [x] StyleLint
 ---
