@@ -9,6 +9,9 @@
 - [x] StyleLint
 - [x] SASS (scss syntax)
 - [x] clsx
+- [x] @radix-ui/react-checkbox
+- [x] @radix-ui/react-label
+- [x] @radix-ui/react-radio-group
 - [x] react-hook-form
 - [x] react-router-dom
 - [x] Redux-Toolkit (RTK Query)
