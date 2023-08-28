@@ -11,4 +11,6 @@
 - [x] react-hook-form
 - [x] Redux-Toolkit (RTK Query)
 - [x] i18n
+- [x] ZOD
+- [x] @hookform/resolvers
 ---
