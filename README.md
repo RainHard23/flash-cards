@@ -8,6 +8,7 @@
 - [x] Prettier
 - [x] StyleLint
 - [x] SASS (scss syntax)
+- [x] clsx
 - [x] react-hook-form
 - [x] react-router-dom
 - [x] Redux-Toolkit (RTK Query)
