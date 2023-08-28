@@ -7,4 +7,5 @@
 - [x] EsLint
 - [x] Prettier
 - [x] StyleLint
+- [x] SASS (scss syntax)
 ---
